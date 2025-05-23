@@ -43,6 +43,7 @@ class ModelType(Enum):
 
 class ModelProvider(Enum):
     ANTHROPIC = "Anthropic"
+    CHUTES = "Chutes"
     DEEPSEEK = "DeepSeek"
     GOOGLE = "Google"
     GROQ = "Groq"
